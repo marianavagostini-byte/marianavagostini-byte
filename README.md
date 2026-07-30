@@ -1,23 +1,27 @@
 # Olá, eu sou Mariana
 
-Desenvolvo soluções digitais aplicadas a processos empresariais reais — automações, integrações de sistemas e aplicações web e desktop, do levantamento de requisitos à documentação técnica e de segurança.
+Sou ingressante no curso de Data Science da FIAP, estudo Python e aplicação de inteligência artificial em processos empresariais. Durante meu estágio na AGIMED, atuei em atividades de marketing e também desenvolvi soluções de software, automações, dashboards e integrações voltadas a necessidades reais da empresa.
 
 ## Portfólio em destaque
 
-**[AGIMED Digital Portfolio](https://github.com/marianavagostini-byte/agimed-digital-portfolio)** — 7 projetos de transformação digital para uma empresa do setor médico-hospitalar, com evidências técnicas verificáveis (estrutura real de código, testes reais, builds, prova de commit).
+**[AGIMED Digital Portfolio](https://github.com/marianavagostini-byte/agimed-digital-portfolio)** — conjunto de projetos desenvolvidos durante minha experiência na AGIMED, reunindo automações, aplicações web e desktop, dashboards, integrações, backend, testes e documentação.
 
 ## Competências
 
+Experiência prática demonstrada pelos projetos do portfólio:
+
+- Python
+- Aplicação de inteligência artificial em processos
 - Automação de processos
 - Integração de sistemas
-- Aplicações web
-- Aplicações desktop
+- Aplicações web e desktop
 - Dashboards
-- Backend
-- Validação de dados
-- Testes
-- Documentação
-- Segurança e LGPD
+- Desenvolvimento backend
+- Processamento e validação de dados
+- Testes automatizados
+- Documentação técnica
+- Git e GitHub
+- Sanitização de dados e cuidados com LGPD
 
 ## Projetos
 
@@ -33,11 +37,11 @@ Os códigos completos são privados (regras empresariais e proteção de dados) 
 
 ## Tecnologias
 
-JavaScript · TypeScript · React · Node.js · Electron · NestJS · Prisma · Python · Vite · Vitest · Git · GitHub · APIs · processamento de CSV · automação documental
+Python · JavaScript · TypeScript · React · Node.js · Electron · NestJS · Prisma · Vite · Vitest · Git · GitHub
 
 ## Forma de trabalho
 
-Levantamento de requisitos · arquitetura · desenvolvimento · testes · documentação · versionamento · segurança · sanitização de dados · melhoria contínua
+Levantamento de necessidades · desenvolvimento · testes · documentação · versionamento · validação de dados · segurança · aprendizado contínuo
 
 ## Contato
 
