@@ -1,88 +1,51 @@
-<div align="center">
+# Mariana Vieira — Junior Software Developer
 
-# Olá, eu sou a Mariana 
+## Professional Summary
 
-**Desenvolvedora em formação · Python · Backend · Automação**
+Junior Software Developer focused on software development, practical problem-solving, and process automation.
 
-Construo sistemas que resolvem problemas reais, com código limpo, APIs bem desenhadas e muita vontade de aprender.
+I have worked on software solutions for business needs and continue to strengthen my development skills through hands-on projects and independent study.
 
-![Perfil](https://img.shields.io/badge/GitHub-marianavagostini--byte-181717?style=for-the-badge&logo=github&logoColor=white)
-![Foco](https://img.shields.io/badge/Foco-Backend%20%26%20Automa%C3%A7%C3%A3o-2ea44f?style=for-the-badge)
-![Estado](https://img.shields.io/badge/Estado-Em%20forma%C3%A7%C3%A3o-blue?style=for-the-badge)
+My public work includes a personal study dashboard built with React, TypeScript, and IndexedDB, as well as documentation of digital solutions developed in a professional business context.
 
-</div>
+I am currently focused on improving my foundations in software development, backend concepts, data management, and maintainable application design.
 
----
+## Technical Skills
 
-## 🛠️ Tecnologias
+**Frontend**
+- React — JavaScript library for building interfaces, applied in the personal dashboard.
+- TypeScript — Static typing that improves code maintainability, used in the personal dashboard.
+- Vite — Modern build tool and dev server, configured in the personal dashboard.
 
-### Backend
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+**Programming Languages**
+- Python — Independent study through the `python-cursoemvideo` repository, focusing on programming logic and language practice.
 
-### Banco de dados
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+**Tools**
+- oxlint — Linting tool used in the personal dashboard for code validation.
 
-### Frontend
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+## Featured Projects
 
-### Ferramentas
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Apple Shortcuts](https://img.shields.io/badge/iOS_Shortcuts-000000?style=for-the-badge&logo=apple&logoColor=white)
+### Agimed Digital Portfolio
 
----
+Digital solutions developed for real business needs in the medical equipment sector (AGIMED Comércio de Equipamentos LTDA). This public repository contains sanitized documentation and evidence of the projects. The complete source code remains in private repositories. The work documents software development in a professional business context.
 
-## 🚀 Projeto em destaque
+### Dashboard Estudos
 
-### 💰 Família Vieira Agostini — Sistema de Gestão Financeira
+Personal application for organizing programming studies and tracking progress in the software development learning journey. Built with React, TypeScript, and Vite, with local persistence via IndexedDB. The application serves as a study organization tool and learning environment.
 
-Um sistema de gestão financeira familiar pensado para dar clareza ao dia a dia: registar, organizar e acompanhar as finanças da família de forma simples e automatizada.
+## Python Curso em Vídeo
 
-**Stack utilizada**
+Public repository with Python exercises based on the course by Professor Gustavo Guanabara. Presented as a learning activity and language practice, not as evidence of professional Python experience.
 
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-![iOS Shortcuts](https://img.shields.io/badge/iOS_Shortcuts-000000?style=flat-square&logo=apple&logoColor=white)
+## Continuous Learning
 
-**Destaques**
+- Software engineering fundamentals
+- Backend development (in progress)
+- Data management
+- Software architecture
+- Testing practices
 
-- ⚙️ **API em FastAPI** para gerir os dados financeiros
-- 🗄️ **Persistência em SQLite**, leve e fácil de manter
-- 🎨 **Interface com Tailwind CSS**, limpa e responsiva
-- 📱 **Automação com iOS Shortcuts**, para registar movimentações rapidamente a partir do telemóvel
+## Contact
 
-🔗 [Ver repositório](https://github.com/marianavagostini-byte/Projeto-Financeiro)
-
----
-
-## 📚 Foco de aprendizagem
-
-Neste momento estou a aprofundar:
-
-- ✅ **Boas práticas**: código legível, organizado e fácil de manter
-- 🌐 **APIs REST**: desenho de endpoints, validação de dados e documentação
-- 🧪 **Testes**: garantir que o que funciona hoje continua a funcionar amanhã
-- 🔐 **Segurança**: autenticação, proteção de dados e cuidados no desenvolvimento de APIs
-
----
-
-## 📫 Contacto
-
-<p align="left">
-  <a href="https://github.com/marianavagostini-byte">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</p>
-
----
-
-<div align="center">
-
-⭐ *Sempre a aprender, sempre a construir.* ⭐
-
-</div>
+- **GitHub**: [@marianavagostini-byte](https://github.com/marianavagostini-byte)
+- **LinkedIn**: [Junior Software Developer | Python, JavaScript & Node.js | Process Automation & API Integrations](https://www.linkedin.com/in/mariana-vieira-1b4980213/)
