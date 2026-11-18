@@ -57,7 +57,7 @@ A personal application for organizing programming studies and tracking progress 
 
 **Technologies:** React · TypeScript · Vite · IndexedDB · Supabase · Cloudflare Workers
 
-**Highlights:** Installable PWA with offline support · Cloud sync between devices with Supabase (authentication and Row Level Security) · Automated tests and CI with GitHub Actions
+**Highlights:** PWA support · Authenticated cloud sync with Supabase (authentication and Row Level Security) · Automated tests and CI with GitHub Actions
 
 [Live App →](https://dashboard-estudos-ai-cfo.marianavagostini.workers.dev/)
 
