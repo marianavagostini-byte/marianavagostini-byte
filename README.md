@@ -55,13 +55,13 @@ I am currently focused on improving my foundations in software development, Pyth
 
 A personal application for organizing programming studies and tracking progress throughout the software development learning journey.
 
-**Technologies:** React · TypeScript · Vite · IndexedDB
+**Technologies:** React · TypeScript · Vite · IndexedDB · Supabase · Cloudflare Workers
 
-**Focus:** Frontend development · Local data persistence · Application organization
+**Highlights:** Installable PWA with offline support · Cloud sync between devices with Supabase (authentication and Row Level Security) · Automated tests and CI with GitHub Actions
 
-**In progress:** cloud sync between devices with Supabase and an installable PWA version.
+[Live App →](https://dashboard-estudos-ai-cfo.marianavagostini.workers.dev/)
 
-*The repository is private because the app holds my personal study data.*
+*The source code is private because the app holds my personal study data.*
 
 ---
 
