@@ -2,13 +2,6 @@
 
 <div align="center">
 
-# Mariana Vieira
-
-### Junior Software Developer
-
-**Software Development · React · TypeScript · Python**
-
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/marianavagostini-byte)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mariana-vieira-1b4980213/)
 
 </div>
@@ -17,13 +10,13 @@
 
 ## `01` — About Me
 
-Junior Software Developer focused on software development and practical problem-solving.
+Junior Software Developer focused on full-stack web development, backend services, and practical business automation.
 
-I have worked on software solutions for business needs and continue to strengthen my development skills through hands-on projects and independent study.
+I have developed internal software solutions and operational integrations for business environments, alongside continuous hands-on study in modern frontend and backend engineering.
 
-My projects include a personal study dashboard built with React, TypeScript, and IndexedDB, and an early-stage API project built with Python and FastAPI.
+My work spans interactive dashboards built with **React**, **TypeScript**, and **IndexedDB**, backend foundations using **NestJS**, **Prisma**, and **Python (FastAPI)**, and workflow automation tools.
 
-I am currently focused on improving my foundations in software development, Python, backend concepts, data management, and maintainable application design.
+---
 
 ## `02` — Tech Stack
 
@@ -34,14 +27,14 @@ I am currently focused on improving my foundations in software development, Pyth
 ![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
 
-**Programming & Learning**
+**Backend, Databases & Automation**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logoColor=white)
-
-*Python, FastAPI, pytest, and SQL are part of my ongoing independent study and early-stage projects.*
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
 
 **Development Tools**
 
@@ -49,7 +42,22 @@ I am currently focused on improving my foundations in software development, Pyth
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![oxlint](https://img.shields.io/badge/oxlint-6E56CF?style=flat-square&logoColor=white)
 
-## `03` — Featured Projects
+---
+
+## `03` — Featured Projects & Business Solutions
+
+### ◈ Business & Operational Software Solutions (AGIMED)
+
+Developed a suite of internal applications and automation tools tailored for corporate operations, commercial management, and e-commerce workflows:
+
+- **Backend & Platform Architecture:** Built backend foundations with **NestJS**, **Prisma**, and **TypeScript** for integrated digital platforms.
+- **E-commerce & ERP Integration:** Developed desktop synchronization tooling connecting **Mercado Livre** and **Bling ERP** operational workflows.
+- **Process Automation:** Engineered **Python** automation scripts for procurement document generation/validation and **JavaScript** tools for corporate email triage and classification.
+- **Internal Web Tools:** Created interactive institutional web interfaces and marketing/CRM planning dashboards using **TypeScript** and **JavaScript**.
+
+*Source codes are kept in private repositories due to proprietary business logic and internal data.*
+
+---
 
 ### ◈ Dashboard Estudos
 
@@ -73,17 +81,7 @@ An early-stage API project for organizing and tracking workflows. It currently i
 
 **Status:** In development
 
-[View Repository →](https://github.com/marianavagostini-byte/projeto-WorkFlow-App)
-
----
-
-### ◈ Python Curso em Vídeo
-
-A public repository containing Python exercises based on Professor Gustavo Guanabara's course.
-
-Maintained as a learning repository focused on programming logic and language practice, rather than professional Python experience.
-
-[View Repository →](https://github.com/marianavagostini-byte/python-cursoemvideo)
+[View Repository →](https://github.com/marianavagostini-byte/workflow-app)
 
 ---
 
@@ -93,19 +91,19 @@ A study tracker and learning roadmap built with plain HTML and JavaScript: a pro
 
 **Technologies:** HTML · CSS · JavaScript
 
-[View Repository →](https://github.com/marianavagostini-byte/Estudos-Roadmap) · [Live Site →](https://marianavagostini-byte.github.io/Estudos-Roadmap/)
+[View Repository →](https://github.com/marianavagostini-byte/estudos-roadmap) · [Live Site →](https://marianavagostini-byte.github.io/estudos-roadmap/)
 
-## `04` — GitHub Activity
+---
 
-<div align="center">
+### ◈ Python Curso em Vídeo
 
-![GitHub Streak](https://streak-stats.demolab.com?user=marianavagostini-byte&theme=tokyonight&hide_border=true)
+A public repository containing Python exercises based on Professor Gustavo Guanabara's course, maintained as a learning repository focused on programming logic and language practice.
 
-</div>
+[View Repository →](https://github.com/marianavagostini-byte/python-cursoemvideo)
 
-<sub>Activity statistics are automatically generated by a third-party service.</sub>
+---
 
-## `05` — Currently Learning
+## `04` — Currently Learning
 
 - Software engineering fundamentals
 - Backend development with Python and FastAPI
@@ -113,13 +111,13 @@ A study tracker and learning roadmap built with plain HTML and JavaScript: a pro
 - Software architecture and maintainable code
 - Testing practices
 
-## `06` — Let's Connect
+---
+
+## `05` — Let's Connect
 
 <div align="center">
 
 **Interested in software development, practical engineering challenges, and opportunities to grow with international teams.**
-
-[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20repositories-181717?style=for-the-badge&logo=github)](https://github.com/marianavagostini-byte)
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mariana-vieira-1b4980213/)
 
